@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a6a0ac28.css",
-    "main.js": "/static/js/main.8d17aec6.js",
+    "main.js": "/static/js/main.e1adc3a6.js",
     "index.html": "/index.html",
     "static/media/shader.frag": "/static/media/shader.d622c730e7ae09288290.frag",
     "static/media/shader.vert": "/static/media/shader.00bfe510dfec4af45066.vert"
   },
   "entrypoints": [
     "static/css/main.a6a0ac28.css",
-    "static/js/main.8d17aec6.js"
+    "static/js/main.e1adc3a6.js"
   ]
 }
